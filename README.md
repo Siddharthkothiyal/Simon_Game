@@ -4,11 +4,7 @@ A browser-based implementation of the classic **Simon** memory game: the player 
 
 ---
 
-## 🧩 Demo & Preview
 
-*(Add a screenshot or animated GIF here to show the game in action)*  
-Example:  
-![Simon Game Demo](path/to/your/demo.gif)
 
 ---
 
