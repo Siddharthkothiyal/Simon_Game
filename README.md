@@ -1,19 +1,47 @@
-# Simon_Game
-Description
-This is a digital implementation of the classic Simon game, where players must remember and repeat a sequence of colors and sounds. The game starts with a sequence of colors, and the player must replicate that sequence correctly to progress to the next level. With each level, the sequence gets longer and more challenging.
+# 🎮 Simon Game
 
-Features
-Classic Simon gameplay experience
-Increasing difficulty with each level
-Auditory and visual feedback for correct and incorrect sequences
-Responsive design for various screen sizes
-Technologies Used
-HTML5
-CSS
-How to Play
-Open the Simon Game in your web browser.
-Click on the "Start" button to begin the game.
-Watch and listen to the sequence of colors and sounds played by the game.
-Repeat the sequence by clicking on the corresponding colors.
-If you get the sequence right, you'll advance to the next level. If you make a mistake, the game will indicate the error, and you can try again.
-Keep playing and see how far you can go!
+A browser-based implementation of the classic **Simon** memory game: the player must memorize and repeat sequences of colors and sounds, with the sequence growing each round.
+
+---
+
+## 🧩 Demo & Preview
+
+*(Add a screenshot or animated GIF here to show the game in action)*  
+Example:  
+![Simon Game Demo](path/to/your/demo.gif)
+
+---
+
+## ✨ Features
+
+- Classic Simon gameplay: listen and repeat the sequence  
+- Sequences get progressively longer, increasing difficulty  
+- Visual and audio cues for feedback  
+- Responsive UI that works across screen sizes  
+- Simple, clean design using HTML / CSS / JavaScript  
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** — markup and layout  
+- **CSS3** — styling and transitions  
+- **JavaScript (ES6+)** — game logic and interactivity  
+
+---
+
+## 📁 Project Structure
+
+
+- **index.html** — Defines UI elements: buttons, color pads, display, etc.  
+- **styles.css** — Handles look, feel, responsiveness, animations.  
+- **game.js** — Core logic: sequence generation, user input, level management, feedback.
+
+---
+
+## 🚀 How to Run / Play
+
+1. Clone or download this repository  
+   ```bash
+   git clone https://github.com/Siddharthkothiyal/Simon_Game.git
+   cd Simon_Game
